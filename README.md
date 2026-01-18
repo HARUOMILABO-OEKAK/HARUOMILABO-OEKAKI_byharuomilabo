@@ -4,3 +4,6 @@
 <a href="#" data-size="large">
   <img alt="MacDownload" src="img/Macdownload_botan.svg">
 </a>
+<a href="#" data-size="large">
+  <img alt="MacDownload" src="img/Macdownload_botan.svg">
+</a>
