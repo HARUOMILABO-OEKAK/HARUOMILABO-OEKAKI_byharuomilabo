@@ -5,5 +5,5 @@
   <img alt="MacDownload" src="img/Macdownload_botan.svg">
 </a>
 <a href="#" data-size="large">
-  <img alt="MacDownload" src="img/Macdownload_botan.svg">
+  <img alt="WindowsDownload" src="img/Windowsdownload_botan.svg">
 </a>
