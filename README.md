@@ -8,7 +8,7 @@
   <img alt="WindowsDownload" src="img/Windowsdownload_botan.svg">
 </a>
 <h3>Release</h3>
-<a href="https://github.com/HARUOMILABO-OEKAK/HARUOMILABO-OEKAKI_byharuomilabo/releases/tag/Release">ReleaseVer.1.0.0</a>
+<a href="https://github.com/HARUOMILABO-OEKAK/HARUOMILABO-OEKAKI_byharuomilabo/releases/tag/v1.0.0">ReleaseVer.1.0.0</a>
 
 <h3>PreRelease</h3>
-<a href="https://github.com/HARUOMILABO-OEKAK/HARUOMILABO-OEKAKI_byharuomilabo/releases/tag/PreRelease">PreReleaseVer.2.0.0</a>
+<a href="https://github.com/HARUOMILABO-OEKAK/HARUOMILABO-OEKAKI_byharuomilabo/releases/tag/prev2.0.0">PreReleaseVer.2.0.0</a>
